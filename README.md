@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/isultane/SalePricePrediction.svg?branch=master)](https://travis-ci.org/isultane/SalePricePrediction)
 NOTE:
 ==============
 	This is a research code and is developed incrementally. So, it is not
